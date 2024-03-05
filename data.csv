@@ -1,0 +1,71 @@
+Product ID,Title,Category,Brand,Price,Rating,User ID
+101,Laptop,Electronics,HP,800,4.5,123
+101,Laptop,Electronics,HP,800,4.7,567
+101,Laptop,Electronics,HP,800,4.2,890
+102,Smartphone,Electronics,Samsung,600,4.8,456
+102,Smartphone,Electronics,Samsung,600,4.6,678
+102,Smartphone,Electronics,Samsung,600,4.3,432
+103,Running Shoes,Sports,Nike,100,4.2,789
+103,Running Shoes,Sports,Nike,100,4.5,987
+104,Headphones,Electronics,Sony,50,4,123
+104,Headphones,Electronics,Sony,50,4.3,675
+105,Coffee Maker,Kitchen,Breville,120,4.6,12
+105,Coffee Maker,Kitchen,Breville,120,4.8,789
+105,Coffee Maker,Kitchen,Breville,120,4.2,543
+106,Tablet,Electronics,Apple,500,4.2,987
+106,Tablet,Electronics,Apple,500,4.1,567
+107,Backpack,Accessories,Adidas,40,3.8,234
+107,Backpack,Accessories,Adidas,40,4,876
+108,Keyboard,Electronics,Logitech,80,4.5,876
+109,Television,Electronics,Sony,1000,4.7,756
+110,Running Shoes,Sports,Adidas,120,4.4,879
+110,Running Shoes,Sports,Adidas,120,4.6,345
+111,Refrigerator,Appliances,Whirlpool,900,4.5,124
+112,Smartwatch,Electronics,Fossil,150,4.2,678
+112,Smartwatch,Electronics,Fossil,150,4,908
+113,Blender,Kitchen,Ninja,70,4.3,567
+114,Monitor,Electronics,Dell,300,4.6,345
+114,Monitor,Electronics,Dell,300,4.5,890
+115,Running Shoes,Sports,Reebok,80,4.1,890
+115,Running Shoes,Sports,Reebok,80,4.4,876
+116,Headphones,Electronics,Beats,250,4.4,654
+117,Smartphone,Electronics,Apple,900,4.7,546
+118,Camera,Electronics,Canon,800,4.5,321
+119,Vacuum Cleaner,Appliances,Dyson,400,4.8,678
+120,Laptop,Electronics,Dell,700,4.6,675
+121,Toaster,Kitchen,Hamilton Beach,30,4,456
+121,Toaster,Kitchen,Hamilton Beach,30,4.2,234
+122,Smartwatch,Electronics,Apple,300,4.7,234
+122,Smartwatch,Electronics,Apple,300,4.6,789
+123,Running Shoes,Sports,Puma,90,4.2,123
+123,Running Shoes,Sports,Puma,90,4.5,908
+124,Headphones,Electronics,Sennheiser,180,4.5,756
+124,Headphones,Electronics,Sennheiser,180,4.3,432
+125,Coffee Maker,Kitchen,Keurig,100,4.3,908
+126,Tablet,Electronics,Samsung,400,4.6,876
+126,Tablet,Electronics,Samsung,400,4.4,890
+127,Backpack,Accessories,Nike,50,4.8,789
+128,Keyboard,Electronics,Microsoft,60,4.5,908
+129,Television,Electronics,LG,800,4.2,678
+129,Television,Electronics,LG,800,4.1,123
+130,Running Shoes,Sports,Under Armour,110,4,234
+131,Refrigerator,Appliances,Samsung,1000,4.4,123
+132,Smartwatch,Electronics,Garmin,180,4.7,456
+133,Blender,Kitchen,Blendtec,300,4.5,567
+134,Monitor,Electronics,Asus,250,4.6,756
+135,Running Shoes,Sports,New Balance,70,4.2,908
+136,Headphones,Electronics,JBL,120,4.8,654
+137,Smartphone,Electronics,OnePlus,800,4.5,546
+138,Camera,Electronics,Nikon,600,4.7,345
+139,Vacuum Cleaner,Appliances,Roomba,350,4.6,678
+140,Laptop,Electronics,Lenovo,900,4,675
+141,Toaster,Kitchen,Cuisinart,40,4.7,456
+142,Smartwatch,Electronics,Fitbit,200,4.5,234
+143,Running Shoes,Sports,ASICS,120,4.2,123
+144,Headphones,Electronics,AirPods,250,4.5,756
+145,Coffee Maker,Kitchen,Mr. Coffee,50,4.3,908
+146,Tablet,Electronics,Amazon,300,4.6,876
+147,Backpack,Accessories,The North Face,80,4.8,789
+148,Keyboard,Electronics,RAZER,100,4.5,908
+149,Television,Electronics,TCL,700,4.2,678
+150,Running Shoes,Sports,Salomon,130,4,234
